@@ -1,4 +1,5 @@
-
+![cover-pic](relative/path/in/repository/to/image.svg)
+![me](amryasser25/Purple Abstract Graphic Design LinkedIn Article Cover Image.png)
 <h1 align="center">Hi, I'm Amr Yasser</h1>
 <h3 align="center">I'm a Machine Learning Engineer</h3>
 
