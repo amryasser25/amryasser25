@@ -37,7 +37,8 @@ Let's connect and explore opportunities to collaborate and learn from each other
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- 
+   
+   ![snake gif](https://github.com/amryasser25/amryasser25/blob/output/github-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
