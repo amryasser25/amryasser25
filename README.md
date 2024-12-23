@@ -8,9 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Yasser!;" />
 </h1>
 
-**`Digital Craftsman (Developer/photographer/editor)`**
 
-As an aspiring machine learning engineer pursuing my undergraduate studies in computer science at Cairo University, I am passionate about leveraging data and AI to solve real-world problems despite being early in my academic journey.
+I'm an aspiring machine learning engineer pursuing my undergraduate studies in computer science at Cairo University, I am passionate about leveraging data and AI to solve real-world problems despite being early in my academic journey.
 
 I aim to continue building my expertise through internships, coursework, and personal projects while staying updated with the latest advancements in AI and machine learning. I am eager to connect with professionals in the field, seek mentorship opportunities, and contribute to innovative projects that make a difference.
 
@@ -24,9 +23,9 @@ Let's connect and explore opportunities to collaborate and learn from each other
    </p>
 
 ---
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,javascript,cpp,qt,java" />
     <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow" />
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,github,stackoverflow,notion,obsidian,figma" />
@@ -35,10 +34,10 @@ Let's connect and explore opportunities to collaborate and learn from each other
 <br/>
 <hr/>
 
-<div align="left">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amryasser25/amryasser25/output/github-contribution-grid-snake.svg" />
+ 
   
   <br/><br/><br/>
 </div>
