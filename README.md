@@ -20,6 +20,8 @@ Let's connect and explore opportunities to collaborate and learn from each other
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amryasser25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-      add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/amryasser25?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         
+   [![](https://visitcount.itsvg.in/api?id=amryasser25&icon=10&color=6)](https://visitcount.itsvg.in)
    </p>
 
 ---
