@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **amryassersalah25@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/system-cd799ead-2eb5-4189-bedc-b7f8155e1e18](https://app.luminpdf.com/viewer/system-cd799ead-2eb5-4189-bedc-b7f8155e1e18)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amryasser25" height="30" width="40" /></a>
