@@ -1,25 +1,47 @@
 <div align="center">
    <img src="./Purple Abstract Graphic Design LinkedIn Article Cover Image.png" width=100%>
 </div>
-<h1 align="center">Hi, I'm Amr Yasser</h1>
-<h3 align="center">I'm a Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+<hr style="border: 1px solid black;">
 
-- 📫 How to reach me **amryassersalah25@gmail.com**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amr+Yasser!;" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amryasser25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amryasser25" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amryasser25" height="30" width="40" /></a>
-<a href="https://kaggle.com/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amryasser25" height="30" width="40" /></a>
-<a href="https://instagram.com/amr.yasser.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amr.yasser.salah" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amryasser25" height="30" width="40" /></a>
-</p>
+**`Digital Craftsman (Developer/photographer/editor)`**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+As an aspiring machine learning engineer pursuing my undergraduate studies in computer science at Cairo University, I am passionate about leveraging data and AI to solve real-world problems despite being early in my academic journey.
+
+I aim to continue building my expertise through internships, coursework, and personal projects while staying updated with the latest advancements in AI and machine learning. I am eager to connect with professionals in the field, seek mentorship opportunities, and contribute to innovative projects that make a difference.
+
+Let's connect and explore opportunities to collaborate and learn from each other in this exciting field!
+
+   <p align="left">
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-      add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,javascript,cpp,qt,java" />
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,github,stackoverflow,notion,obsidian,figma" />
+</div>
+
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amryasser25/amryasser25/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Statistics </b>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amryasser25&show_icons=true&locale=en" alt="amryasser25" /></p>
 
