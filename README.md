@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amr Yasser</h1>
-<h3 align="center">I'm Amr Yasser a Machine Learning Engineer</h3>
+<h1 align="center">Hi, I'm Amr Yasser</h1>
+<h3 align="center">I'm a Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
