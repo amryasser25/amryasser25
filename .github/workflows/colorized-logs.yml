@@ -1,0 +1,21 @@
+name: Colorized Output Example
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Print Colorful Logs
+        run: |
+          echo -e "\033[0;32mGreen: Build succeeded!\033[0m"
+          echo -e "\033[0;31mRed: Build failed.\033[0m"
+          echo -e "\033[0;33mYellow: Warning!\033[0m"
+          echo -e "\033[0;34mBlue: Informational message.\033[0m"
