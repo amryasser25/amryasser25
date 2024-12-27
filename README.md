@@ -15,7 +15,7 @@ I aim to continue building my expertise through internships, coursework, and per
 
 Let's connect and explore opportunities to collaborate and learn from each other in this exciting field!
 
-<h3 align="left">Connect with me:
+<h3 >Connect with me:
    <a href="https://linkedin.com/in/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
    <a href="https://instagram.com/amr.yasser.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"alt="هinstgram logo"/>
    <a href="https://discord.com/channels/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
@@ -47,10 +47,9 @@ Let's connect and explore opportunities to collaborate and learn from each other
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amryasser25&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amryasser25&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amryasser25&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390  src="https://github-readme-stats-salesp07.vercel.app/api?username=amryasser25&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amryasser25&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
