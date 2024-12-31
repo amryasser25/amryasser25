@@ -16,6 +16,7 @@ I aim to continue building my expertise through internships, coursework, and per
 Let's connect and explore opportunities to collaborate and learn from each other in this exciting field!
 
 <h3 >Connect with me:
+   <a href="mailto:amryassersalah25@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="gmail logo"/>
    <a href="https://linkedin.com/in/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
    <a href="https://wa.me/+201276757172" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
    <a href="https://discord.com/channels/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
