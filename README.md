@@ -9,9 +9,15 @@
 </h1>
 
 
-I'm an aspiring machine learning engineer pursuing my undergraduate studies in computer science at Cairo University, I am passionate about leveraging data and AI to solve real-world problems despite being early in my academic journey.
+I’m an AI Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
 
-I aim to continue building my expertise through internships, coursework, and personal projects while staying updated with the latest advancements in AI and machine learning. I am eager to connect with professionals in the field, seek mentorship opportunities, and contribute to innovative projects that make a difference.
+I have worked on various projects, primarily focusing on computer vision and natural language processing (NLP).
+
+Why you should trust me: 
+Despite my experience and proficiency in past projects, I believe in continuous learning. If there's something I don't know that you're interested in, I won't stop until I've mastered it.
+
+My goal is to further build my expertise through internships, coursework, and personal projects while keeping up with the latest advancements in AI and machine learning. I am eager to connect with professionals in the field, seek mentorship opportunities, and contribute to innovative projects that make a real difference.
+
 
 Let's connect and explore opportunities to collaborate and learn from each other in this exciting field!
 
