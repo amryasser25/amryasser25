@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="Purple Blue Simple Professional Marketing Professional LinkedIn Article Cover Image.png" width=100%>
+   <img src="LinkedIn Cover Image.png" width=100%>
 </div>
 
 <hr style="border: 1px solid black;">
@@ -9,7 +9,7 @@
 </h1>
 
 
-I’m an AI Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
+I’m an Bsckend Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
 
 I have worked on various projects, primarily focusing on computer vision and natural language processing (NLP).
 
