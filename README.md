@@ -9,7 +9,7 @@
 </h1>
 
 
-I’m an Bsckend Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
+I’m a GenAI Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
 
 I have worked on various projects, primarily focusing on computer vision and natural language processing (NLP).
 
