@@ -9,7 +9,7 @@
 </h1>
 
 
-I’m a GenAI Engineer and a computer science undergraduate at Cairo University, with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
+I’m an AI Engineer with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
 
 I have worked on various projects, primarily focusing on computer vision and natural language processing (NLP).
 
@@ -24,7 +24,7 @@ Let's connect and explore opportunities to collaborate and learn from each other
 <h3 >Connect with me:
    <a href="mailto:amryassersalah25@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="gmail logo"/>
    <a href="https://linkedin.com/in/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-   <a href="https://wa.me/+201276757172" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
+   <a href="https://wa.me/+201055592171" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
    <a href="https://discord.com/channels/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
 </h3>
       
