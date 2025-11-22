@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="LinkedIn Cover Image.png" width=100%>
+   <img src="Purple Blue Simple Professional Marketing Professional LinkedIn Article Cover Image.png" width=100%>
 </div>
 
 <hr style="border: 1px solid black;">
