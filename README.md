@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="" width=100%>
+   <img src="Cover Image.png" width=100%>
 </div>
 
 <hr style="border: 1px solid black;">
