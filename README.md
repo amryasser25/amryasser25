@@ -1,26 +1,41 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✌️;+I'm+Amr+Yasser;" alt="Hi there, I'm Amr Yasser">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Amr+Yasser;AI+Engineer+in+Progress" alt="Amr Yasser - AI Engineer in Progress">
 </h1>
 
-<p align="center"></p>
+## Amr Yasser — AI Engineer in Progress
 
-<p align="center">
-  Feel Free To Reach Out  : 
-  <a href="https://www.linkedin.com/in/amryasser25">LinkedIn</a> ·
-  <a href="https://x.com/amryasser_25">X</a> ·
-  <a href="mailto:amryassersalah25@gmail.com">Mail</a>
-</p>
+I’m a Computer Science student building toward AI engineering through software-engineering fundamentals.  
+My direction is **software engineering → AI systems → LLM applications/agents → production-oriented applications**.  
+I focus on building reliable systems around AI, not just using AI tools.
 
-I’m a Computer Science student at **Cairo University’s Faculty of Computer Science and Artificial Intelligence (FCAI)**, building toward a career in AI engineering.
+## Currently Building
 
-My focus is developing the engineering foundation needed to build useful AI-enabled products end to end: understanding the software around the models, connecting APIs and data, automating reliable workflows, and turning experiments into maintainable systems.
+- AI-powered applications with clear backend architecture
+- LLM applications and agent-style workflows
+- APIs, automation, and developer-oriented tooling
+- Engineering habits for maintainable, production-ready software
 
-I’m currently strengthening my skills through university coursework, practical experimentation, and professional opportunities. I’m especially interested in:
+## Projects
 
-- LLM applications and AI agents
-- Automation and AI-assisted development
-- Backend systems, APIs, and developer tools
-- Computer vision and natural language processing
-- Production-oriented AI system design
+Public project evidence is currently limited in this profile repository.  
+I use my repositories to document progress as I ship more implementation-focused work:
 
-I’m open to internships, practical collaboration, mentorship, and conversations with people working on AI and software engineering.
+- [Explore my repositories](https://github.com/amryasser25?tab=repositories)
+
+## Technical Direction
+
+- **Backend / APIs:** API integration, backend service design, automation workflows  
+- **AI / LLM:** LLM application patterns, agent workflows, AI-assisted software engineering  
+- **Developer Tooling:** practical engineering workflows, code quality habits, maintainable development practices  
+- **Systems Focus:** building toward production-oriented reliability and maintainability
+
+## Education
+
+**Computer Science**  
+Cairo University — Faculty of Computer Science and Artificial Intelligence (FCAI)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/amryasser25)
+- [X](https://x.com/amryasser_25)
+- [Email](mailto:amryassersalah25@gmail.com)
