@@ -5,15 +5,13 @@
 <p align="center"></p>
 
 <p align="center">
-  Feal Free To Ratch Out : 
+  Feel Free To Reach Out  : 
   <a href="https://www.linkedin.com/in/amryasser25">LinkedIn</a> ·
   <a href="https://x.com/amryasser_25">X</a> ·
   <a href="mailto:amryassersalah25@gmail.com">Mail</a>
 </p>
 
-## Who am i 
-
-I’m a Computer Science student at **Cairo University’s Faculty of Computers Science and Artificial Intelligence (FCAI)**, building toward a career in AI engineering.
+I’m a Computer Science student at **Cairo University’s Faculty of Computer Science and Artificial Intelligence (FCAI)**, building toward a career in AI engineering.
 
 My focus is developing the engineering foundation needed to build useful AI-enabled products end to end: understanding the software around the models, connecting APIs and data, automating reliable workflows, and turning experiments into maintainable systems.
 
