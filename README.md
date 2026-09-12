@@ -1,60 +1,28 @@
-<div align="center">
-   <img src="Cover Image.png" width=100%>
-</div>
-
-<hr style="border: 1px solid black;">
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✌️;+I'm+Amr+Yasser;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✌️;+I'm+Amr+Yasser;" alt="Hi there, I'm Amr Yasser">
 </h1>
 
+<p align="center"></p>
 
-I’m an AI Engineer with a passion for building intelligent systems that bridge the gap between human imagination and machine capabilities.
+<p align="center">
+  Feal Free To Ratch Out : 
+  <a href="https://www.linkedin.com/in/amryasser25">LinkedIn</a> ·
+  <a href="https://x.com/amryasser_25">X</a> ·
+  <a href="mailto:amryassersalah25@gmail.com">Mail</a>
+</p>
 
-I have worked on various projects, primarily focusing on computer vision and natural language processing (NLP).
+## Who am i 
 
-Why you should trust me: 
-Despite my experience and proficiency in past projects, I believe in continuous learning. If there's something I don't know that you're interested in, I won't stop until I've mastered it.
+I’m a Computer Science student at **Cairo University’s Faculty of Computers Science and Artificial Intelligence (FCAI)**, building toward a career in AI engineering.
 
-My goal is to further build my expertise through internships, coursework, and personal projects while keeping up with the latest advancements in AI and machine learning. I am eager to connect with professionals in the field, seek mentorship opportunities, and contribute to innovative projects that make a real difference.
+My focus is developing the engineering foundation needed to build useful AI-enabled products end to end: understanding the software around the models, connecting APIs and data, automating reliable workflows, and turning experiments into maintainable systems.
 
+I’m currently strengthening my skills through university coursework, practical experimentation, and professional opportunities. I’m especially interested in:
 
-Let's connect and explore opportunities to collaborate and learn from each other in this exciting field!
+- LLM applications and AI agents
+- Automation and AI-assisted development
+- Backend systems, APIs, and developer tools
+- Computer vision and natural language processing
+- Production-oriented AI system design
 
-<h3 >Connect with me:
-   <a href="mailto:amryassersalah25@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="gmail logo"/>
-   <a href="https://linkedin.com/in/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-   <a href="https://wa.me/+201055592171" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
-   <a href="https://discord.com/channels/amryasser25" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-</h3>
-      
-###
----
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,javascript,cpp,qt,java" />
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,git,github,stackoverflow,notion,obsidian,figma" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-   
-   ![snake gif](https://github.com/amryasser25/amryasser25/blob/output/github-snake-dark.svg)
-
-</div>
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amryasser25&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-   <img width=390  src="https://github-readme-stats-salesp07.vercel.app/api?username=amryasser25&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<br/><br/>
+I’m open to internships, practical collaboration, mentorship, and conversations with people working on AI and software engineering.
