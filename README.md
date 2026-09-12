@@ -11,16 +11,28 @@
   <a href="mailto:amryassersalah25@gmail.com">Mail</a>
 </p>
 
-I’m a Computer Science student at **Cairo University’s Faculty of Computer Science and Artificial Intelligence (FCAI)**, building toward a career in AI engineering.
+I’m an **AI Engineer** focused on building software systems leveraging AI & LLMs to solve real-world problems.
 
-My focus is developing the engineering foundation needed to build useful AI-enabled products end to end: understanding the software around the models, connecting APIs and data, automating reliable workflows, and turning experiments into maintainable systems.
+My work sits at the intersection of **software engineering → AI systems → LLM applications and agents → production-oriented applications**.
 
-I’m currently strengthening my skills through university coursework, practical experimentation, and professional opportunities. I’m especially interested in:
+I’m currently studying **Computer Science at Cairo University’s Faculty of Computer Science and Artificial Intelligence (FCAI)** while building practical systems and strengthening my engineering Foundations.
 
-- LLM applications and AI agents
-- Automation and AI-assisted development
-- Backend systems, APIs, and developer tools
-- Computer vision and natural language processing
-- Production-oriented AI system design
+## Building
 
-I’m open to internships, practical collaboration, mentorship, and conversations with people working on AI and software engineering.
+- AI-powered applications with clear backend architecture
+- LLM applications and agent-based workflows
+- APIs, automation, and developer tooling
+- Reliable and maintainable software for production-oriented environments
+
+## Projects
+
+I build and document implementation-focused projects across software engineering and AI.
+
+[Explore my repositories](https://github.com/amryasser25?tab=repositories)
+
+## Technical Direction
+
+- **Software Engineering:** application architecture, maintainability, reliability
+- **Backend / APIs:** API integration, backend services, automation workflows
+- **AI / LLM:** LLM applications, agent workflows, AI system design
+- **Developer Tooling:** automation and practical engineering workflows
